@@ -1,0 +1,65 @@
+div{
+    background-image: url("../Index/img/fondo.jpg");
+    background-size: cover;
+    background-position:center center;
+    height: 700px;
+    width: 100%;
+    opacity: .8;
+}
+h1, h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif, cursive;
+    color: tomato;
+}
+.materia{
+    text-align: center;
+    font-size: x-large;
+    color: brown;
+}
+.Nombre{
+    position: absolute;
+    width: 100%;
+    left: 300px;
+    top: 300px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: black;
+}
+.Matrícula{
+    position: absolute;
+    width: 100%;
+    left: 200px;
+    top: 300px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: black;
+}
+.Semestre{
+    position: absolute;
+    width: 100%;
+    left: 650px;
+    top: 300px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: black;
+}
+.Carrera{
+    position: absolute;
+    width: 100%;
+    left: 750px;
+    top: 300px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: black;
+}
+ul{
+    list-style-type: none;
+}
+.Practicas{
+    position: absolute;
+    text-align: center;
+    left: 390px;
+    width: 500px;
+    top: 500px;
+    color: white;
+}
